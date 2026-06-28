@@ -91,4 +91,17 @@ Author: **Dhruv** 💖
 Language: **Python 3**  
 Library: **Tkinter (Standard Python Library)**  
 
+------------------------------
+🌐 Connect With Me
+------------------------------
+
+If you found this project inspiring or would love to collaborate — let’s connect! 🤝
+
+💼 LinkedIn: https://www.linkedin.com/in/DhruvKundu
+
+💻 GitHub: https://github.com/Dhruv-kundu
+
+✉️ Email: kd243315@gmail.com
+
+
 ✨ “MAKE CODING FUN — ONE PROJECT AT A TIME!” ✨
